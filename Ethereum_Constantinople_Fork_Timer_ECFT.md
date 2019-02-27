@@ -17,6 +17,8 @@ Ethereum Fork Timer 2.0 - Stake Capital
 
 https://docs.google.com/spreadsheets/d/1c1GMS8sLSAorMblsXvg_iPzNfAg_Y5F-y5N4D-IDgj4/edit?usp=drive_web&ouid=113559707563988463959
 
+Medium's post: https://medium.com/stakecapital/ethereum-constantinople-fork-timer-ecft-d0edfd34c8f0
+
 ## How
 
 In order to provide a smooth transition for the upcoming Ethereum PoS algorithm, an « Ice age » has been introduced by the EIP1234 leading to an exponential overall difficulty increase, whence mining reward less profitable. Furthermore, the client will calculate the difficulty based on a fake block number « suggesting the difficulty bomb is adjusting around 5 million blocks later than previously » which represent a 1100 days delay. 
